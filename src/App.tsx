@@ -16,11 +16,11 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React + TypeScrypt</h1>
+      <h1>Vite + React + TypeScript</h1>
       <div className="card">
        
         <p>
-          My first TypeScrypt + React Project
+          My first TypeScript + React Project
         </p>
       </div>
       <p className="read-the-docs">
